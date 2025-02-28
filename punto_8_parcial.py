@@ -1,3 +1,4 @@
+# Shara García Betancur - Punto 8 - Parcial 1
 # La empresa yupi tiene 5 vendedores los cuales están compitiendo por el empleado del año,
 # para tener en cuenta el premio, se debe agrupar las ventas por vendedor,
 # el problema que requieren solucionar es sumar las ventas por cada vendedor,
